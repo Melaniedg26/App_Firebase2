@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "346069601957",
+    "firebase_url": "https://crudfirebase-a83bb-default-rtdb.firebaseio.com",
+    "project_id": "crudfirebase-a83bb",
+    "storage_bucket": "crudfirebase-a83bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346069601957:android:a1377d00e556bc7417874c",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiiV3tJcu8a8_CDyog9Q03utVWR0DuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346069601957:android:945ffd617939c06217874c",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.app_firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiiV3tJcu8a8_CDyog9Q03utVWR0DuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
